@@ -35,3 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
+
+  
+<div>
+  <img src="https://wakatime.com/badge/user/7bddd760-f611-4de6-92b5-180f412ccdf7.svg" title="wakaTime" alt="WakaTime" width="100%" />
+</div>
